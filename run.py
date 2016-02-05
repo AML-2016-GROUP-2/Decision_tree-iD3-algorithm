@@ -61,5 +61,5 @@ def get_testfile():
 		 sys.exit(0)
 	return testtweet
 
-#def tokenizer():
+#while extracting the data from dataset_v2 we need to tokenize it (use tokenizer = TweetTokenizer()) 
 clean_data()
